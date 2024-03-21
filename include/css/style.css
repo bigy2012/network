@@ -1,0 +1,7 @@
+@font-face {
+    font-family: font-Regular;
+    src: url('Sarabun-Regular.ttf');
+}
+*{
+    font-family: font-Regular;
+}
